@@ -1,0 +1,14 @@
+body {
+  background: url('bg.jpg') no-repeat center;
+  background-size: cover;
+  background-position: 100% 0;
+}
+
+.login h1 a {
+  background-image: url('logo.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 65px;
+  height: 57px;
+}
